@@ -1,6 +1,6 @@
-# Myntra-Style Funnel and Retention Analytics
+# Fashion Ecommerce Funnel and Retention Analytics
 
-This project is a business analyst case study for a fashion ecommerce platform inspired by Myntra. I built it to show how an analyst can move from raw user activity to clear business recommendations using Python, SQL, and a simple dashboard.
+This project is a business analyst case study for a fashion ecommerce platform. I built it to show how an analyst can move from raw user activity to clear business recommendations using Python, SQL, and a simple dashboard.
 
 The main question behind the project is:
 
@@ -22,10 +22,10 @@ This project is designed around that workflow.
 
 ## Quick Start
 
-Open PowerShell in the project folder:
+Open PowerShell in the folder where you downloaded or cloned the project:
 
 ```powershell
-cd D:\Analyst-Project\myntra-ba-funnel-retention-analytics
+cd fashion-ecommerce-funnel-retention-analytics
 ```
 
 Run the complete project:
@@ -71,7 +71,7 @@ When you run `src/generate_project.py`, it performs the full workflow:
 ## Project Structure
 
 ```text
-myntra-ba-funnel-retention-analytics/
+fashion-ecommerce-funnel-retention-analytics/
   data/                         Generated CSV files and SQLite database
   dashboard/                    Local browser dashboard
   reports/                      Business report and metrics JSON
@@ -87,7 +87,7 @@ myntra-ba-funnel-retention-analytics/
 - `reports/business_insights.md` - written summary of findings and recommendations.
 - `reports/metrics.json` - calculated metrics used by the dashboard.
 - `sql/business_analysis_queries.sql` - SQL queries for funnel, retention, category, and experiment analysis.
-- `data/myntra_ba_analytics.sqlite` - SQLite database created from the generated data.
+- `data/ecommerce_analytics.sqlite` - SQLite database created from the generated data.
 - `data/events.csv` - event-level user journey data.
 - `data/orders.csv` - order-level transaction data.
 - `data/customers.csv` - customer profile data.
@@ -134,4 +134,4 @@ The business value is that the analysis does not stop at numbers. It points to d
 
 ## Data Note
 
-All data in this project is synthetic. It is created for learning and portfolio use only. It does not contain real Myntra data or any customer information.
+All data in this project is synthetic. It is created for learning and portfolio use only. It does not contain real company data or any customer information.
