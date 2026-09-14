@@ -1,0 +1,1593 @@
+{
+  "kpis": {
+    "sessions": 59688,
+    "orders": 3272,
+    "revenue": 5182632,
+    "conversion_rate": 0.05481838895590403,
+    "aov": 1583.9339853300733,
+    "customers": 5200
+  },
+  "funnel_counts": {
+    "visit": 59688,
+    "product_view": 50162,
+    "add_to_cart": 15171,
+    "checkout_start": 8978,
+    "purchase": 3272
+  },
+  "funnel_rates": {
+    "visit_to_view": 0.8404034311754457,
+    "view_to_cart": 0.3024400940951318,
+    "cart_to_checkout": 0.5917869619669106,
+    "checkout_to_purchase": 0.36444642459345067,
+    "visit_to_purchase": 0.05481838895590403
+  },
+  "category": [
+    {
+      "category": "Footwear",
+      "sessions": 10702,
+      "purchases": 461,
+      "conversion_rate": 0.043076060549430015,
+      "revenue": 1015146
+    },
+    {
+      "category": "Kids",
+      "sessions": 7786,
+      "purchases": 354,
+      "conversion_rate": 0.04546622142306704,
+      "revenue": 425083
+    },
+    {
+      "category": "Men Casual",
+      "sessions": 14865,
+      "purchases": 795,
+      "conversion_rate": 0.05348133198789102,
+      "revenue": 1322136
+    },
+    {
+      "category": "Women Ethnic",
+      "sessions": 16161,
+      "purchases": 938,
+      "conversion_rate": 0.058040962811707196,
+      "revenue": 1732646
+    },
+    {
+      "category": "Beauty",
+      "sessions": 10174,
+      "purchases": 724,
+      "conversion_rate": 0.07116178494200905,
+      "revenue": 687621
+    }
+  ],
+  "city": [
+    {
+      "city": "Jaipur",
+      "sessions": 4952,
+      "purchases": 250,
+      "conversion_rate": 0.05048465266558966,
+      "revenue": 389199
+    },
+    {
+      "city": "Lucknow",
+      "sessions": 4697,
+      "purchases": 238,
+      "conversion_rate": 0.05067064083457526,
+      "revenue": 363465
+    },
+    {
+      "city": "Mumbai",
+      "sessions": 9897,
+      "purchases": 520,
+      "conversion_rate": 0.052541174093159546,
+      "revenue": 821979
+    },
+    {
+      "city": "Indore",
+      "sessions": 4625,
+      "purchases": 246,
+      "conversion_rate": 0.05318918918918919,
+      "revenue": 388800
+    },
+    {
+      "city": "Pune",
+      "sessions": 5816,
+      "purchases": 315,
+      "conversion_rate": 0.054160935350756535,
+      "revenue": 492055
+    },
+    {
+      "city": "Hyderabad",
+      "sessions": 7634,
+      "purchases": 414,
+      "conversion_rate": 0.054231071522137804,
+      "revenue": 653275
+    },
+    {
+      "city": "Bengaluru",
+      "sessions": 11898,
+      "purchases": 690,
+      "conversion_rate": 0.05799293998991427,
+      "revenue": 1105250
+    },
+    {
+      "city": "Delhi NCR",
+      "sessions": 10169,
+      "purchases": 599,
+      "conversion_rate": 0.05890451371816304,
+      "revenue": 968609
+    }
+  ],
+  "channel": [
+    {
+      "channel": "Affiliate",
+      "sessions": 7643,
+      "purchases": 358,
+      "conversion_rate": 0.046840245976710715,
+      "revenue": 558847
+    },
+    {
+      "channel": "Influencer",
+      "sessions": 9638,
+      "purchases": 508,
+      "conversion_rate": 0.05270803071176593,
+      "revenue": 798876
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 15635,
+      "purchases": 826,
+      "conversion_rate": 0.052830188679245285,
+      "revenue": 1299476
+    },
+    {
+      "channel": "Organic",
+      "sessions": 18425,
+      "purchases": 1077,
+      "conversion_rate": 0.058453188602442335,
+      "revenue": 1713525
+    },
+    {
+      "channel": "Push",
+      "sessions": 8347,
+      "purchases": 503,
+      "conversion_rate": 0.06026117167844735,
+      "revenue": 811908
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-01-01",
+      "sessions": 292,
+      "purchases": 14,
+      "conversion_rate": 0.04794520547945205,
+      "revenue": 26047
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 395,
+      "purchases": 19,
+      "conversion_rate": 0.04810126582278481,
+      "revenue": 32239
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 304,
+      "purchases": 15,
+      "conversion_rate": 0.049342105263157895,
+      "revenue": 26644
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 318,
+      "purchases": 25,
+      "conversion_rate": 0.07861635220125786,
+      "revenue": 37229
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 311,
+      "purchases": 17,
+      "conversion_rate": 0.05466237942122187,
+      "revenue": 27355
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 369,
+      "purchases": 23,
+      "conversion_rate": 0.06233062330623306,
+      "revenue": 38860
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 278,
+      "purchases": 12,
+      "conversion_rate": 0.04316546762589928,
+      "revenue": 14197
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 298,
+      "purchases": 17,
+      "conversion_rate": 0.05704697986577181,
+      "revenue": 25098
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 337,
+      "purchases": 22,
+      "conversion_rate": 0.06528189910979229,
+      "revenue": 33253
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 350,
+      "purchases": 20,
+      "conversion_rate": 0.05714285714285714,
+      "revenue": 27767
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 349,
+      "purchases": 10,
+      "conversion_rate": 0.02865329512893983,
+      "revenue": 15179
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 291,
+      "purchases": 17,
+      "conversion_rate": 0.058419243986254296,
+      "revenue": 27838
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 261,
+      "purchases": 13,
+      "conversion_rate": 0.04980842911877394,
+      "revenue": 17204
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 323,
+      "purchases": 10,
+      "conversion_rate": 0.030959752321981424,
+      "revenue": 12411
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 268,
+      "purchases": 22,
+      "conversion_rate": 0.08208955223880597,
+      "revenue": 28516
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 381,
+      "purchases": 20,
+      "conversion_rate": 0.05249343832020997,
+      "revenue": 33382
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 350,
+      "purchases": 19,
+      "conversion_rate": 0.054285714285714284,
+      "revenue": 34177
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 401,
+      "purchases": 19,
+      "conversion_rate": 0.04738154613466334,
+      "revenue": 29362
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 312,
+      "purchases": 20,
+      "conversion_rate": 0.0641025641025641,
+      "revenue": 31664
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 265,
+      "purchases": 11,
+      "conversion_rate": 0.04150943396226415,
+      "revenue": 17926
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 269,
+      "purchases": 15,
+      "conversion_rate": 0.055762081784386616,
+      "revenue": 22919
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 316,
+      "purchases": 18,
+      "conversion_rate": 0.056962025316455694,
+      "revenue": 25758
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 353,
+      "purchases": 26,
+      "conversion_rate": 0.07365439093484419,
+      "revenue": 43869
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 336,
+      "purchases": 24,
+      "conversion_rate": 0.07142857142857142,
+      "revenue": 35117
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 334,
+      "purchases": 15,
+      "conversion_rate": 0.04491017964071856,
+      "revenue": 22043
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 297,
+      "purchases": 17,
+      "conversion_rate": 0.05723905723905724,
+      "revenue": 24764
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 347,
+      "purchases": 22,
+      "conversion_rate": 0.06340057636887608,
+      "revenue": 37100
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 282,
+      "purchases": 19,
+      "conversion_rate": 0.0673758865248227,
+      "revenue": 31975
+    },
+    {
+      "date": "2026-01-29",
+      "sessions": 316,
+      "purchases": 17,
+      "conversion_rate": 0.05379746835443038,
+      "revenue": 27255
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 365,
+      "purchases": 19,
+      "conversion_rate": 0.052054794520547946,
+      "revenue": 31851
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 375,
+      "purchases": 21,
+      "conversion_rate": 0.056,
+      "revenue": 34279
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 334,
+      "purchases": 12,
+      "conversion_rate": 0.03592814371257485,
+      "revenue": 22703
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 299,
+      "purchases": 15,
+      "conversion_rate": 0.05016722408026756,
+      "revenue": 27121
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 263,
+      "purchases": 20,
+      "conversion_rate": 0.07604562737642585,
+      "revenue": 32567
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 232,
+      "purchases": 11,
+      "conversion_rate": 0.04741379310344827,
+      "revenue": 18079
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 220,
+      "purchases": 15,
+      "conversion_rate": 0.06818181818181818,
+      "revenue": 25099
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 339,
+      "purchases": 21,
+      "conversion_rate": 0.061946902654867256,
+      "revenue": 32420
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 358,
+      "purchases": 17,
+      "conversion_rate": 0.04748603351955307,
+      "revenue": 28180
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 349,
+      "purchases": 18,
+      "conversion_rate": 0.05157593123209169,
+      "revenue": 33932
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 288,
+      "purchases": 11,
+      "conversion_rate": 0.03819444444444445,
+      "revenue": 22887
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 267,
+      "purchases": 15,
+      "conversion_rate": 0.056179775280898875,
+      "revenue": 24508
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 304,
+      "purchases": 10,
+      "conversion_rate": 0.03289473684210526,
+      "revenue": 15970
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 306,
+      "purchases": 25,
+      "conversion_rate": 0.08169934640522876,
+      "revenue": 38971
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 327,
+      "purchases": 19,
+      "conversion_rate": 0.0581039755351682,
+      "revenue": 33749
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 343,
+      "purchases": 19,
+      "conversion_rate": 0.05539358600583091,
+      "revenue": 28431
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 292,
+      "purchases": 14,
+      "conversion_rate": 0.04794520547945205,
+      "revenue": 18048
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 316,
+      "purchases": 14,
+      "conversion_rate": 0.04430379746835443,
+      "revenue": 21723
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 292,
+      "purchases": 10,
+      "conversion_rate": 0.03424657534246575,
+      "revenue": 14767
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 295,
+      "purchases": 19,
+      "conversion_rate": 0.06440677966101695,
+      "revenue": 30629
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 290,
+      "purchases": 17,
+      "conversion_rate": 0.05862068965517241,
+      "revenue": 27018
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 355,
+      "purchases": 19,
+      "conversion_rate": 0.05352112676056338,
+      "revenue": 30651
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 311,
+      "purchases": 19,
+      "conversion_rate": 0.06109324758842444,
+      "revenue": 30652
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 358,
+      "purchases": 16,
+      "conversion_rate": 0.0446927374301676,
+      "revenue": 27520
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 335,
+      "purchases": 23,
+      "conversion_rate": 0.06865671641791045,
+      "revenue": 37901
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 293,
+      "purchases": 10,
+      "conversion_rate": 0.034129692832764506,
+      "revenue": 13903
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 312,
+      "purchases": 14,
+      "conversion_rate": 0.04487179487179487,
+      "revenue": 19127
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 272,
+      "purchases": 8,
+      "conversion_rate": 0.029411764705882353,
+      "revenue": 15004
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 288,
+      "purchases": 19,
+      "conversion_rate": 0.06597222222222222,
+      "revenue": 31727
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 389,
+      "purchases": 17,
+      "conversion_rate": 0.043701799485861184,
+      "revenue": 31706
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 376,
+      "purchases": 12,
+      "conversion_rate": 0.031914893617021274,
+      "revenue": 17823
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 282,
+      "purchases": 9,
+      "conversion_rate": 0.031914893617021274,
+      "revenue": 12958
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 258,
+      "purchases": 11,
+      "conversion_rate": 0.04263565891472868,
+      "revenue": 19402
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 264,
+      "purchases": 19,
+      "conversion_rate": 0.07196969696969698,
+      "revenue": 33559
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 262,
+      "purchases": 18,
+      "conversion_rate": 0.06870229007633588,
+      "revenue": 27051
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 317,
+      "purchases": 25,
+      "conversion_rate": 0.07886435331230283,
+      "revenue": 37906
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 300,
+      "purchases": 15,
+      "conversion_rate": 0.05,
+      "revenue": 26180
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 350,
+      "purchases": 14,
+      "conversion_rate": 0.04,
+      "revenue": 20709
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 290,
+      "purchases": 18,
+      "conversion_rate": 0.06206896551724138,
+      "revenue": 25392
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 305,
+      "purchases": 12,
+      "conversion_rate": 0.03934426229508197,
+      "revenue": 22261
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 283,
+      "purchases": 15,
+      "conversion_rate": 0.053003533568904596,
+      "revenue": 26900
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 263,
+      "purchases": 23,
+      "conversion_rate": 0.08745247148288973,
+      "revenue": 37150
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 340,
+      "purchases": 13,
+      "conversion_rate": 0.03823529411764706,
+      "revenue": 21066
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 540,
+      "purchases": 34,
+      "conversion_rate": 0.06296296296296296,
+      "revenue": 54199
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 512,
+      "purchases": 21,
+      "conversion_rate": 0.041015625,
+      "revenue": 36744
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 413,
+      "purchases": 28,
+      "conversion_rate": 0.06779661016949153,
+      "revenue": 41549
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 447,
+      "purchases": 22,
+      "conversion_rate": 0.049217002237136466,
+      "revenue": 38491
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 429,
+      "purchases": 27,
+      "conversion_rate": 0.06293706293706294,
+      "revenue": 44481
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 476,
+      "purchases": 28,
+      "conversion_rate": 0.058823529411764705,
+      "revenue": 41132
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 537,
+      "purchases": 32,
+      "conversion_rate": 0.0595903165735568,
+      "revenue": 51418
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 532,
+      "purchases": 22,
+      "conversion_rate": 0.041353383458646614,
+      "revenue": 33423
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 480,
+      "purchases": 30,
+      "conversion_rate": 0.0625,
+      "revenue": 47553
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 399,
+      "purchases": 24,
+      "conversion_rate": 0.06015037593984962,
+      "revenue": 33647
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 435,
+      "purchases": 19,
+      "conversion_rate": 0.04367816091954023,
+      "revenue": 26401
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 472,
+      "purchases": 26,
+      "conversion_rate": 0.05508474576271186,
+      "revenue": 44545
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 468,
+      "purchases": 26,
+      "conversion_rate": 0.05555555555555555,
+      "revenue": 44460
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 572,
+      "purchases": 30,
+      "conversion_rate": 0.05244755244755245,
+      "revenue": 44699
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 539,
+      "purchases": 29,
+      "conversion_rate": 0.05380333951762523,
+      "revenue": 50341
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 560,
+      "purchases": 34,
+      "conversion_rate": 0.060714285714285714,
+      "revenue": 47194
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 405,
+      "purchases": 29,
+      "conversion_rate": 0.07160493827160494,
+      "revenue": 42451
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 473,
+      "purchases": 30,
+      "conversion_rate": 0.06342494714587738,
+      "revenue": 47491
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 426,
+      "purchases": 24,
+      "conversion_rate": 0.056338028169014086,
+      "revenue": 43356
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 271,
+      "purchases": 21,
+      "conversion_rate": 0.07749077490774908,
+      "revenue": 37136
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 359,
+      "purchases": 18,
+      "conversion_rate": 0.05013927576601671,
+      "revenue": 31633
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 362,
+      "purchases": 21,
+      "conversion_rate": 0.058011049723756904,
+      "revenue": 30651
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 374,
+      "purchases": 27,
+      "conversion_rate": 0.07219251336898395,
+      "revenue": 39872
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 273,
+      "purchases": 12,
+      "conversion_rate": 0.04395604395604396,
+      "revenue": 16497
+    },
+    {
+      "date": "2026-04-07",
+      "sessions": 337,
+      "purchases": 18,
+      "conversion_rate": 0.05341246290801187,
+      "revenue": 33822
+    },
+    {
+      "date": "2026-04-08",
+      "sessions": 318,
+      "purchases": 18,
+      "conversion_rate": 0.05660377358490566,
+      "revenue": 25157
+    },
+    {
+      "date": "2026-04-09",
+      "sessions": 287,
+      "purchases": 23,
+      "conversion_rate": 0.08013937282229965,
+      "revenue": 31005
+    },
+    {
+      "date": "2026-04-10",
+      "sessions": 341,
+      "purchases": 25,
+      "conversion_rate": 0.07331378299120235,
+      "revenue": 40524
+    },
+    {
+      "date": "2026-04-11",
+      "sessions": 378,
+      "purchases": 17,
+      "conversion_rate": 0.04497354497354497,
+      "revenue": 29174
+    },
+    {
+      "date": "2026-04-12",
+      "sessions": 379,
+      "purchases": 28,
+      "conversion_rate": 0.07387862796833773,
+      "revenue": 41431
+    },
+    {
+      "date": "2026-04-13",
+      "sessions": 222,
+      "purchases": 17,
+      "conversion_rate": 0.07657657657657657,
+      "revenue": 28166
+    },
+    {
+      "date": "2026-04-14",
+      "sessions": 354,
+      "purchases": 18,
+      "conversion_rate": 0.05084745762711865,
+      "revenue": 28403
+    },
+    {
+      "date": "2026-04-15",
+      "sessions": 258,
+      "purchases": 21,
+      "conversion_rate": 0.08139534883720931,
+      "revenue": 34038
+    },
+    {
+      "date": "2026-04-16",
+      "sessions": 283,
+      "purchases": 19,
+      "conversion_rate": 0.06713780918727916,
+      "revenue": 29558
+    },
+    {
+      "date": "2026-04-17",
+      "sessions": 342,
+      "purchases": 20,
+      "conversion_rate": 0.05847953216374269,
+      "revenue": 28148
+    },
+    {
+      "date": "2026-04-18",
+      "sessions": 363,
+      "purchases": 23,
+      "conversion_rate": 0.06336088154269973,
+      "revenue": 35066
+    },
+    {
+      "date": "2026-04-19",
+      "sessions": 325,
+      "purchases": 16,
+      "conversion_rate": 0.04923076923076923,
+      "revenue": 24492
+    },
+    {
+      "date": "2026-04-20",
+      "sessions": 301,
+      "purchases": 13,
+      "conversion_rate": 0.04318936877076412,
+      "revenue": 24208
+    },
+    {
+      "date": "2026-04-21",
+      "sessions": 299,
+      "purchases": 13,
+      "conversion_rate": 0.043478260869565216,
+      "revenue": 21997
+    },
+    {
+      "date": "2026-04-22",
+      "sessions": 292,
+      "purchases": 14,
+      "conversion_rate": 0.04794520547945205,
+      "revenue": 21178
+    },
+    {
+      "date": "2026-04-23",
+      "sessions": 266,
+      "purchases": 10,
+      "conversion_rate": 0.03759398496240601,
+      "revenue": 16708
+    },
+    {
+      "date": "2026-04-24",
+      "sessions": 402,
+      "purchases": 19,
+      "conversion_rate": 0.0472636815920398,
+      "revenue": 26732
+    },
+    {
+      "date": "2026-04-25",
+      "sessions": 342,
+      "purchases": 17,
+      "conversion_rate": 0.049707602339181284,
+      "revenue": 24340
+    },
+    {
+      "date": "2026-04-26",
+      "sessions": 344,
+      "purchases": 19,
+      "conversion_rate": 0.055232558139534885,
+      "revenue": 33135
+    },
+    {
+      "date": "2026-04-27",
+      "sessions": 301,
+      "purchases": 11,
+      "conversion_rate": 0.036544850498338874,
+      "revenue": 15001
+    },
+    {
+      "date": "2026-04-28",
+      "sessions": 302,
+      "purchases": 17,
+      "conversion_rate": 0.056291390728476824,
+      "revenue": 21348
+    },
+    {
+      "date": "2026-04-29",
+      "sessions": 305,
+      "purchases": 13,
+      "conversion_rate": 0.04262295081967213,
+      "revenue": 19246
+    },
+    {
+      "date": "2026-04-30",
+      "sessions": 281,
+      "purchases": 15,
+      "conversion_rate": 0.05338078291814947,
+      "revenue": 18824
+    },
+    {
+      "date": "2026-05-01",
+      "sessions": 374,
+      "purchases": 14,
+      "conversion_rate": 0.0374331550802139,
+      "revenue": 23995
+    },
+    {
+      "date": "2026-05-02",
+      "sessions": 260,
+      "purchases": 16,
+      "conversion_rate": 0.06153846153846154,
+      "revenue": 24085
+    },
+    {
+      "date": "2026-05-03",
+      "sessions": 357,
+      "purchases": 18,
+      "conversion_rate": 0.05042016806722689,
+      "revenue": 29375
+    },
+    {
+      "date": "2026-05-04",
+      "sessions": 302,
+      "purchases": 14,
+      "conversion_rate": 0.046357615894039736,
+      "revenue": 24770
+    },
+    {
+      "date": "2026-05-05",
+      "sessions": 291,
+      "purchases": 9,
+      "conversion_rate": 0.030927835051546393,
+      "revenue": 15058
+    },
+    {
+      "date": "2026-05-06",
+      "sessions": 290,
+      "purchases": 12,
+      "conversion_rate": 0.041379310344827586,
+      "revenue": 16309
+    },
+    {
+      "date": "2026-05-07",
+      "sessions": 267,
+      "purchases": 19,
+      "conversion_rate": 0.07116104868913857,
+      "revenue": 30737
+    },
+    {
+      "date": "2026-05-08",
+      "sessions": 278,
+      "purchases": 17,
+      "conversion_rate": 0.06115107913669065,
+      "revenue": 32472
+    },
+    {
+      "date": "2026-05-09",
+      "sessions": 308,
+      "purchases": 6,
+      "conversion_rate": 0.01948051948051948,
+      "revenue": 10080
+    },
+    {
+      "date": "2026-05-10",
+      "sessions": 365,
+      "purchases": 24,
+      "conversion_rate": 0.06575342465753424,
+      "revenue": 29126
+    },
+    {
+      "date": "2026-05-11",
+      "sessions": 276,
+      "purchases": 14,
+      "conversion_rate": 0.050724637681159424,
+      "revenue": 24600
+    },
+    {
+      "date": "2026-05-12",
+      "sessions": 305,
+      "purchases": 13,
+      "conversion_rate": 0.04262295081967213,
+      "revenue": 19919
+    },
+    {
+      "date": "2026-05-13",
+      "sessions": 288,
+      "purchases": 16,
+      "conversion_rate": 0.05555555555555555,
+      "revenue": 28697
+    },
+    {
+      "date": "2026-05-14",
+      "sessions": 272,
+      "purchases": 15,
+      "conversion_rate": 0.05514705882352941,
+      "revenue": 21938
+    },
+    {
+      "date": "2026-05-15",
+      "sessions": 311,
+      "purchases": 22,
+      "conversion_rate": 0.0707395498392283,
+      "revenue": 36810
+    },
+    {
+      "date": "2026-05-16",
+      "sessions": 352,
+      "purchases": 19,
+      "conversion_rate": 0.05397727272727273,
+      "revenue": 26043
+    },
+    {
+      "date": "2026-05-17",
+      "sessions": 370,
+      "purchases": 19,
+      "conversion_rate": 0.051351351351351354,
+      "revenue": 28447
+    },
+    {
+      "date": "2026-05-18",
+      "sessions": 330,
+      "purchases": 19,
+      "conversion_rate": 0.05757575757575758,
+      "revenue": 29710
+    },
+    {
+      "date": "2026-05-19",
+      "sessions": 232,
+      "purchases": 16,
+      "conversion_rate": 0.06896551724137931,
+      "revenue": 28567
+    },
+    {
+      "date": "2026-05-20",
+      "sessions": 317,
+      "purchases": 21,
+      "conversion_rate": 0.06624605678233439,
+      "revenue": 32943
+    },
+    {
+      "date": "2026-05-21",
+      "sessions": 296,
+      "purchases": 20,
+      "conversion_rate": 0.06756756756756757,
+      "revenue": 29872
+    },
+    {
+      "date": "2026-05-22",
+      "sessions": 308,
+      "purchases": 20,
+      "conversion_rate": 0.06493506493506493,
+      "revenue": 32173
+    },
+    {
+      "date": "2026-05-23",
+      "sessions": 294,
+      "purchases": 12,
+      "conversion_rate": 0.04081632653061224,
+      "revenue": 20699
+    },
+    {
+      "date": "2026-05-24",
+      "sessions": 355,
+      "purchases": 15,
+      "conversion_rate": 0.04225352112676056,
+      "revenue": 26008
+    },
+    {
+      "date": "2026-05-25",
+      "sessions": 265,
+      "purchases": 17,
+      "conversion_rate": 0.06415094339622641,
+      "revenue": 25822
+    },
+    {
+      "date": "2026-05-26",
+      "sessions": 344,
+      "purchases": 18,
+      "conversion_rate": 0.05232558139534884,
+      "revenue": 30940
+    },
+    {
+      "date": "2026-05-27",
+      "sessions": 313,
+      "purchases": 22,
+      "conversion_rate": 0.07028753993610223,
+      "revenue": 33855
+    },
+    {
+      "date": "2026-05-28",
+      "sessions": 294,
+      "purchases": 14,
+      "conversion_rate": 0.047619047619047616,
+      "revenue": 22507
+    },
+    {
+      "date": "2026-05-29",
+      "sessions": 357,
+      "purchases": 25,
+      "conversion_rate": 0.0700280112044818,
+      "revenue": 37959
+    },
+    {
+      "date": "2026-05-30",
+      "sessions": 349,
+      "purchases": 14,
+      "conversion_rate": 0.04011461318051576,
+      "revenue": 20014
+    },
+    {
+      "date": "2026-05-31",
+      "sessions": 392,
+      "purchases": 20,
+      "conversion_rate": 0.05102040816326531,
+      "revenue": 32423
+    },
+    {
+      "date": "2026-06-01",
+      "sessions": 245,
+      "purchases": 14,
+      "conversion_rate": 0.05714285714285714,
+      "revenue": 20623
+    },
+    {
+      "date": "2026-06-02",
+      "sessions": 313,
+      "purchases": 24,
+      "conversion_rate": 0.07667731629392971,
+      "revenue": 42621
+    },
+    {
+      "date": "2026-06-03",
+      "sessions": 270,
+      "purchases": 22,
+      "conversion_rate": 0.08148148148148149,
+      "revenue": 32948
+    },
+    {
+      "date": "2026-06-04",
+      "sessions": 341,
+      "purchases": 13,
+      "conversion_rate": 0.03812316715542522,
+      "revenue": 19632
+    },
+    {
+      "date": "2026-06-05",
+      "sessions": 351,
+      "purchases": 24,
+      "conversion_rate": 0.06837606837606838,
+      "revenue": 42182
+    },
+    {
+      "date": "2026-06-06",
+      "sessions": 315,
+      "purchases": 17,
+      "conversion_rate": 0.05396825396825397,
+      "revenue": 28992
+    },
+    {
+      "date": "2026-06-07",
+      "sessions": 334,
+      "purchases": 13,
+      "conversion_rate": 0.038922155688622756,
+      "revenue": 17999
+    },
+    {
+      "date": "2026-06-08",
+      "sessions": 242,
+      "purchases": 14,
+      "conversion_rate": 0.05785123966942149,
+      "revenue": 21965
+    },
+    {
+      "date": "2026-06-09",
+      "sessions": 219,
+      "purchases": 11,
+      "conversion_rate": 0.0502283105022831,
+      "revenue": 16591
+    },
+    {
+      "date": "2026-06-10",
+      "sessions": 343,
+      "purchases": 16,
+      "conversion_rate": 0.04664723032069971,
+      "revenue": 21105
+    },
+    {
+      "date": "2026-06-11",
+      "sessions": 255,
+      "purchases": 18,
+      "conversion_rate": 0.07058823529411765,
+      "revenue": 23135
+    },
+    {
+      "date": "2026-06-12",
+      "sessions": 393,
+      "purchases": 24,
+      "conversion_rate": 0.061068702290076333,
+      "revenue": 33891
+    },
+    {
+      "date": "2026-06-13",
+      "sessions": 330,
+      "purchases": 15,
+      "conversion_rate": 0.045454545454545456,
+      "revenue": 24555
+    },
+    {
+      "date": "2026-06-14",
+      "sessions": 360,
+      "purchases": 20,
+      "conversion_rate": 0.05555555555555555,
+      "revenue": 33108
+    },
+    {
+      "date": "2026-06-15",
+      "sessions": 294,
+      "purchases": 16,
+      "conversion_rate": 0.05442176870748299,
+      "revenue": 24785
+    },
+    {
+      "date": "2026-06-16",
+      "sessions": 312,
+      "purchases": 13,
+      "conversion_rate": 0.041666666666666664,
+      "revenue": 23105
+    },
+    {
+      "date": "2026-06-17",
+      "sessions": 268,
+      "purchases": 20,
+      "conversion_rate": 0.07462686567164178,
+      "revenue": 28833
+    },
+    {
+      "date": "2026-06-18",
+      "sessions": 297,
+      "purchases": 21,
+      "conversion_rate": 0.0707070707070707,
+      "revenue": 33895
+    },
+    {
+      "date": "2026-06-19",
+      "sessions": 355,
+      "purchases": 26,
+      "conversion_rate": 0.07323943661971831,
+      "revenue": 38959
+    },
+    {
+      "date": "2026-06-20",
+      "sessions": 352,
+      "purchases": 22,
+      "conversion_rate": 0.0625,
+      "revenue": 40324
+    },
+    {
+      "date": "2026-06-21",
+      "sessions": 314,
+      "purchases": 15,
+      "conversion_rate": 0.04777070063694268,
+      "revenue": 24156
+    },
+    {
+      "date": "2026-06-22",
+      "sessions": 269,
+      "purchases": 20,
+      "conversion_rate": 0.07434944237918216,
+      "revenue": 32823
+    },
+    {
+      "date": "2026-06-23",
+      "sessions": 326,
+      "purchases": 17,
+      "conversion_rate": 0.05214723926380368,
+      "revenue": 28567
+    },
+    {
+      "date": "2026-06-24",
+      "sessions": 280,
+      "purchases": 15,
+      "conversion_rate": 0.05357142857142857,
+      "revenue": 27843
+    },
+    {
+      "date": "2026-06-25",
+      "sessions": 304,
+      "purchases": 12,
+      "conversion_rate": 0.039473684210526314,
+      "revenue": 16326
+    },
+    {
+      "date": "2026-06-26",
+      "sessions": 376,
+      "purchases": 17,
+      "conversion_rate": 0.04521276595744681,
+      "revenue": 26247
+    },
+    {
+      "date": "2026-06-27",
+      "sessions": 337,
+      "purchases": 14,
+      "conversion_rate": 0.04154302670623145,
+      "revenue": 23619
+    },
+    {
+      "date": "2026-06-28",
+      "sessions": 328,
+      "purchases": 18,
+      "conversion_rate": 0.054878048780487805,
+      "revenue": 26520
+    },
+    {
+      "date": "2026-06-29",
+      "sessions": 317,
+      "purchases": 14,
+      "conversion_rate": 0.04416403785488959,
+      "revenue": 23637
+    }
+  ],
+  "ab_summary": {
+    "control": {
+      "sessions": 29943,
+      "purchases": 1508,
+      "conversion_rate": 0.050362355141435396,
+      "revenue": 2350426
+    },
+    "free_shipping_nudge": {
+      "sessions": 29745,
+      "purchases": 1764,
+      "conversion_rate": 0.059304084720121025,
+      "revenue": 2832206
+    }
+  },
+  "ab_test": {
+    "control_rate": 0.050362355141435396,
+    "test_rate": 0.059304084720121025,
+    "lift": 0.17754788380277442,
+    "z_score": 4.798570656978941,
+    "p_value": 1.5980193459797867e-06
+  },
+  "cohort": [
+    {
+      "cohort": "2026-01",
+      "customers": 518,
+      "m0": 1.0,
+      "m1": 0.08108108108108109,
+      "m2": 0.14092664092664092,
+      "m3": 0.07915057915057915,
+      "m4": 0.09266409266409266,
+      "m5": 0.07915057915057915
+    },
+    {
+      "cohort": "2026-02",
+      "customers": 385,
+      "m0": 1.0,
+      "m1": 0.12987012987012986,
+      "m2": 0.10909090909090909,
+      "m3": 0.07532467532467532,
+      "m4": 0.08831168831168831,
+      "m5": 0.0
+    },
+    {
+      "cohort": "2026-03",
+      "customers": 531,
+      "m0": 1.0,
+      "m1": 0.11864406779661017,
+      "m2": 0.11864406779661017,
+      "m3": 0.0847457627118644,
+      "m4": 0.0,
+      "m5": 0.0
+    },
+    {
+      "cohort": "2026-04",
+      "customers": 385,
+      "m0": 1.0,
+      "m1": 0.07532467532467532,
+      "m2": 0.1038961038961039,
+      "m3": 0.0,
+      "m4": 0.0,
+      "m5": 0.0
+    },
+    {
+      "cohort": "2026-05",
+      "customers": 328,
+      "m0": 1.0,
+      "m1": 0.09146341463414634,
+      "m2": 0.0,
+      "m3": 0.0,
+      "m4": 0.0,
+      "m5": 0.0
+    },
+    {
+      "cohort": "2026-06",
+      "customers": 288,
+      "m0": 1.0,
+      "m1": 0.0,
+      "m2": 0.0,
+      "m3": 0.0,
+      "m4": 0.0,
+      "m5": 0.0
+    }
+  ],
+  "root_cause": [
+    {
+      "city": "Mumbai",
+      "channel": "Influencer",
+      "category": "Footwear",
+      "sessions": 300,
+      "conversion_rate": 0.02666666666666667,
+      "gap_vs_average": -0.028151722289237364,
+      "lost_orders_estimate": 8
+    },
+    {
+      "city": "Mumbai",
+      "channel": "Organic",
+      "category": "Footwear",
+      "sessions": 527,
+      "conversion_rate": 0.03225806451612903,
+      "gap_vs_average": -0.022560324439775,
+      "lost_orders_estimate": 12
+    },
+    {
+      "city": "Delhi NCR",
+      "channel": "Affiliate",
+      "category": "Men Casual",
+      "sessions": 312,
+      "conversion_rate": 0.035256410256410256,
+      "gap_vs_average": -0.019561978699493776,
+      "lost_orders_estimate": 6
+    },
+    {
+      "city": "Lucknow",
+      "channel": "Organic",
+      "category": "Men Casual",
+      "sessions": 358,
+      "conversion_rate": 0.036312849162011177,
+      "gap_vs_average": -0.018505539793892856,
+      "lost_orders_estimate": 7
+    },
+    {
+      "city": "Mumbai",
+      "channel": "Affiliate",
+      "category": "Women Ethnic",
+      "sessions": 343,
+      "conversion_rate": 0.037900874635568516,
+      "gap_vs_average": -0.016917514320335517,
+      "lost_orders_estimate": 6
+    },
+    {
+      "city": "Delhi NCR",
+      "channel": "Paid Search",
+      "category": "Footwear",
+      "sessions": 493,
+      "conversion_rate": 0.038539553752535496,
+      "gap_vs_average": -0.016278835203368536,
+      "lost_orders_estimate": 8
+    },
+    {
+      "city": "Hyderabad",
+      "channel": "Paid Search",
+      "category": "Footwear",
+      "sessions": 353,
+      "conversion_rate": 0.039660056657223795,
+      "gap_vs_average": -0.015158332298680237,
+      "lost_orders_estimate": 5
+    },
+    {
+      "city": "Bengaluru",
+      "channel": "Affiliate",
+      "category": "Women Ethnic",
+      "sessions": 444,
+      "conversion_rate": 0.04054054054054054,
+      "gap_vs_average": -0.01427784841536349,
+      "lost_orders_estimate": 6
+    },
+    {
+      "city": "Pune",
+      "channel": "Organic",
+      "category": "Footwear",
+      "sessions": 342,
+      "conversion_rate": 0.04093567251461988,
+      "gap_vs_average": -0.013882716441284151,
+      "lost_orders_estimate": 5
+    },
+    {
+      "city": "Delhi NCR",
+      "channel": "Paid Search",
+      "category": "Kids",
+      "sessions": 363,
+      "conversion_rate": 0.04132231404958678,
+      "gap_vs_average": -0.013496074906317254,
+      "lost_orders_estimate": 5
+    }
+  ]
+}
